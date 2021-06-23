@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.amazon.com.mx/" ContentHash="2VpRzusJe06kcvezM-RHhQ" DesignTimeRectangle="522, 122, 438, 38" ElementType="InputBox" FriendlyName="'INPUT twotabsearchtextb…'" FullSelectorArgument="&lt;webctrl tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' aaname='' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='https://images-na.ssl-images-amazon.com/images/I/11EIQ5IGqaL._RC%7C01ZTHTZObnL.css,41DO8IyHTdL.css,31qGOnSAToL.css,013z33uKh2L.css,017DsKjNQJL.css,01L-6KXabGL.css,41EWOOlBJ9L.css,11gKzVUTNZL.css,01ElnPiDxWL.css,11bGSgD5pDL.css,01Dm5eKVxwL.css,01IdKcBuAdL.c*' title='Amazon.com.mx: Precios bajos - Envío rápido - Millones de productos' /&gt;" SearchSteps="Selector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="362, 125, 138, 33" ElementType="Text" FriendlyName="'Todos los departamentos'" FullSelectorArgument="&lt;webctrl id='nav-search-label-id' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='nav-search-label-id' tag='SPAN' type='' aaname='Todos los departamentos' check:text='Todos los departamentos' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1oeXelZ0YSkSziKLS3rvhxA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0rDU-EIPm3UiAgkVmZM0pJw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="b4a570c64a746aa216fb8095ead0d63d.png" xmlns="">0WeIZHJFBFkqGcOHr3FUYPg</imageRef>
+</TargetAnchorable>

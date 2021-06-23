@@ -1,0 +1,14 @@
+﻿{
+  "Id": "auw5uKbqI0u4tB2dGvf9Qg",
+  "Reference": "ae-KC9cScUuRnsxlISVu0w/auw5uKbqI0u4tB2dGvf9Qg",
+  "ParentRef": "ae-KC9cScUuRnsxlISVu0w/sienaufHv0uY0nXUS0DHXw",
+  "Name": "Type Into 'Amazon'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-03-30T21:26:44.3303428Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-03-30T21:26:44.3303428Z"
+}

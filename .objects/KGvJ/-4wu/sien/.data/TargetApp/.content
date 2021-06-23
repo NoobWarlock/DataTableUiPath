@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="hffeu5Qz00OuUzcY5N_nVA" Selector="&lt;html app='chrome.exe' title='Mercado Libre México' /&gt;" Url="https://www.mercadolibre.com.mx/" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0eMc5yqsk506OpKzK1ROGZQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="666e0efb3e5e973d751f80db6e7b476b.png" xmlns="">0jiPNt0UPy0GtSrALaYAILw</imageRef>
+</TargetApp>

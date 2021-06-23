@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.mercadolibre.com.mx/" ContentHash="XjWSERzi-UmMeUpxBeEbPQ" DesignTimeRectangle="279, 119, 598, 39" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' aaname='' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Mercado Libre México' /&gt;" SearchSteps="Selector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">04BrqsXh7bEiuFMVcxLxC3Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="adb1fd79c5c31c39ddb5d62c5d363d25.png" xmlns="">0HnKeG40lLEy--Uw1JCtPbQ</imageRef>
+</TargetAnchorable>

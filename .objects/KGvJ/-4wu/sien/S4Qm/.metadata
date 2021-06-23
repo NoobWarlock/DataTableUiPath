@@ -1,0 +1,17 @@
+﻿{
+  "Id": "S4QmxdT7HEieQecXHHWDFg",
+  "Reference": "ae-KC9cScUuRnsxlISVu0w/S4QmxdT7HEieQecXHHWDFg",
+  "ParentRef": "ae-KC9cScUuRnsxlISVu0w/sienaufHv0uY0nXUS0DHXw",
+  "Name": "Tabla de Datos",
+  "Type": "Element",
+  "TaxonomyType": "Table",
+  "Created": "2021-03-30T18:48:00.8367775Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-03-30T21:40:02.3209684Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
